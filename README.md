@@ -19,6 +19,8 @@ This grabber supports **all Operating Systems**
  3. Open the program with Python 3.
 <br>
 
+[Preview](https://prnt.sc/1ndzm6k)
+
 # Note 
 If the person you want to send the program does not have Python 3, convert it to .exe.
 I recommend [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/)
